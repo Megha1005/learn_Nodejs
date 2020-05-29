@@ -4,4 +4,4 @@ learn Nodejs
 
 The repo stores the projects and work done for Node JS.
 
-Visual Studio is used here as the editor.
+Visual Studio is used here as an editor.
